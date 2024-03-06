@@ -13,9 +13,9 @@
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
 
-  
+&nbsp;  
 
-[V2.10 (US only) – GigiBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.10(usa).zip)
+[V2.10 (US only) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.10(usa).zip)
 -	Added laser pattern control in DMX mode
   
 [V2.09 (EU) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.09(eur).zip)
