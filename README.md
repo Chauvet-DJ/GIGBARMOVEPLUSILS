@@ -22,6 +22,7 @@
 -	Fixed a bug within 28CH and 50CH DMX personalities
   
 [V2.08 (US) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.08(usa).zip)
+
 [V2.08 (EU) - GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.08(eur).zip)
 -	Fixed a bug with hardwired DMX signal
 
