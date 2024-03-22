@@ -15,7 +15,10 @@
 
 &nbsp;  
 
-[V2.10 (US only) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.10(usa).zip)
+[V2.10 (EU) - GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/9b8eaa8702de8718391e27db1cbc425423679378/firmware/GigBarMove%20Pro%20V2.10(eur).zip)
+- Improved sound response in Sound Mode
+
+[V2.10 (US) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.10(usa).zip)
 -	Added laser pattern control in DMX mode
   
 [V2.09 (EU) – GigBAR MOVE + ILS](https://github.com/Chauvet-DJ/GIGBARMOVEPLUSILS/blob/b80351ca31ab2aa43d35acdce5cbdc57127a41f3/firmware/GigBarMove%20Pro%20V2.09(eur).zip)
